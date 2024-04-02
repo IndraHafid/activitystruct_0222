@@ -11,6 +11,7 @@ struct Mahasiswa {
     string umur;
 };
 
+
 int main()
 {
     std::cout << "Hello World!\n";
